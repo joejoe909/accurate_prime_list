@@ -18,11 +18,8 @@ bool isPrime(int n){
         }
     }
 
-    if (is_prime){
+
         return is_prime;
-    }else{
-        return is_prime;
-    }
 
 }
 
